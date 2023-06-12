@@ -1,1 +1,1 @@
-# react_recipes
+# react-cook-book
